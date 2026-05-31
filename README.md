@@ -65,3 +65,14 @@ The maps below display the spatial distribution of vegetation vigor and localize
 * **GIS Engine:** ArcGIS Pro
 * **Data Processing:** Remote Sensing Imagery Band Radiance Processing
 * **Calculations:** Raster Functions (NDVI / Iso-Cluster Unsupervised LULC Classification)
+### 2. Normalized Difference Vegetation Index (NDVI)
+Vegetation health and biomass density are calculated via standard band math using satellite-derived reflectance data. By comparing how plant canopies absorb visible red light and reflect near-infrared (NIR) light, plant vigor can be accurately indexed.
+
+$$NDVI = \frac{NIR - Red}{NIR + Red}$$
+
+<p align="center">
+  <img src="NDVI-healthy-stressed.jpg" width="60%" alt="NDVI Healthy vs Stressed Vegetation Principle" />
+</p>
+
+*   **Red Band Absorption:** Indicates active chlorophyll photon absorption for photosynthesis.
+*   **Near-Infrared (NIR) Reflectance:** Reflects the structural integrity of internal leaf cells. Healthy vegetation yields high positive values, while bare surfaces, built elements, or stressed plants yield significantly lower values.
