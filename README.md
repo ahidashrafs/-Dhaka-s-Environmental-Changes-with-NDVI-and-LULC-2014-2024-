@@ -1,6 +1,6 @@
 # -Dhaka-s-Environmental-Changes-with-NDVI-and-LULC-2014-2024-
 I used ArcGIS Pro to look at how Dhaka changed from 2014 to 2024. Concrete and buildings basically doubled (+14.55%), swallowing up a massive amount of farmland. The scariest part? Even though we see a bit more green on the map, the NDVI data shows our trees are choking—unhealthy greenery jumped by 2.6% due to urban heat and pollution.
-# Decadal Spatial Analysis of Dhaka District: Urbanization & Ecological Dynamics (2014–2024)
+# Decadal Spatial Analysis of Dhaka District: Urbanization & Ecological Dynamics (2014 VS 2024)
 
 This repository contains the geospatial data, maps, and analysis evaluating the environmental and structural evolution of Dhaka District over a 10-year timeline. Using ArcGIS Pro and multi-temporal satellite imagery, this project quantifies macro-level shifts in land cover and tracks the corresponding physiological stress on regional vegetation. 
 
