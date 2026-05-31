@@ -8,7 +8,7 @@ By pairing Land Use Land Cover (LULC) classification with Normalized Difference 
 
 ---
 
-## 📈 Methodology & Analytical Core
+## 📈 Methodology
 
 ### 1. Land Use Land Cover (LULC) Classification
 Surface evaluation is segmented into five primary thematic layers to capture macro environmental metrics: Water, Developed Areas, Agricultural Land, Vegetation/Trees, and Bare Land.
@@ -53,7 +53,7 @@ The maps below display the spatial distribution of vegetation vigor and localize
 
 ---
 
-## 🔍 Core Implications & Takeaways
+## 🔍 What the data reveals
 
 * **Impervious Growth:** The 14.55% surge in developed space stems directly from reclaiming bare land (-10.97%) and converting agrarian zones. This shift significantly modifies regional thermal characteristics and urban hydrology.
 * **Vegetation Paradox:** While total canopy coverage rose marginally (+2.84%), very healthy vegetation dipped by 1.17% and unhealthy variants climbed by 2.60%. This indicates physiological degradation, likely caused by groundwater depletion, soil fragmentation, and localized air pollutants.
