@@ -35,6 +35,9 @@ Here is the spatial distribution of land classes across the district comparing t
 Vegetation health and biomass density are calculated via standard band math using satellite-derived reflectance data. By comparing the differential reflection of near-infrared (NIR) and visible red light, plant vigor is measured using the standard equation:
 
 $$NDVI = \frac{NIR - Red}{NIR + Red}$$
+<p align="center">
+  <img src="NDVI-healthy-stressed.jpg" width="60%" alt="NDVI Healthy vs Stressed Vegetation Principle" />
+</p>
 
 #### Decadal NDVI Comparison
 The maps below display the spatial distribution of vegetation vigor and localized stress over the ten-year period:
