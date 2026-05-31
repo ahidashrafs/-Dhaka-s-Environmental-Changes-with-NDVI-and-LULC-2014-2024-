@@ -36,10 +36,6 @@ Vegetation health and biomass density are calculated via standard band math usin
 
 $$NDVI = \frac{NIR - Red}{NIR + Red}$$
 
-<p align="center">
-  <img src="NDVI-healthy-stressed.jpg" width="60%" alt="NDVI Healthy vs Stressed Vegetation Principle" />
-</p>
-
 #### Decadal NDVI Comparison
 The maps below display the spatial distribution of vegetation vigor and localized stress over the ten-year period:
 
