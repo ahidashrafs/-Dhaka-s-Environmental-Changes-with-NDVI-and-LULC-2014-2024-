@@ -1,0 +1,2 @@
+# -Dhaka-s-Environmental-Changes-with-NDVI-and-LULC-2014-2024-
+I used ArcGIS Pro to look at how Dhaka changed from 2014 to 2024. Concrete and buildings basically doubled (+14.55%), swallowing up a massive amount of farmland. The scariest part? Even though we see a bit more green on the map, the NDVI data shows our trees are choking—unhealthy greenery jumped by 2.6% due to urban heat and pollution.
